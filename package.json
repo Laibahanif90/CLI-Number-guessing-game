@@ -1,6 +1,6 @@
 {
   "name": "laiba13-cli-number-guessing-game",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A single command line game for guessing numbers. In this, the user guesses a randomly generated secret number within a given number of attempts.",
   "main": "index.js",
   "type":"module",
